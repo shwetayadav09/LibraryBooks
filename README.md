@@ -1,2 +1,2 @@
 # LibraryBooks
-Book Management
+Library Management
